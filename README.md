@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dhineshkumar Ramalingam
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning data science
+- 📫 How to reach me @linkedin dhinesh260
